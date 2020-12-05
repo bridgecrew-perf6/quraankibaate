@@ -1,9 +1,11 @@
 import React from "react";
 import Data from "../data/data.json";
 import "./Message.css";
-
+import ArrowForwardIosIcon from "@material-ui/icons/ArrowForwardIos";
 import Fab from "@material-ui/core/Fab";
 import AutorenewIcon from "@material-ui/icons/Autorenew";
+import { Link } from "react-router-dom";
+
 const Message = () => {
   const messages = Data.main;
   const message = messages[Math.floor(Math.random() * messages.length)];
@@ -27,6 +29,14 @@ const Message = () => {
             <AutorenewIcon className="message__buttonIcon" />
             Get New One
           </Fab>
+        </div>
+        <div className="message__all">
+          <Link to="/all">
+            <Fab variant="extended" color="primary">
+              <ArrowForwardIosIcon className="message__buttonIcon" />
+              All
+            </Fab>
+          </Link>
         </div>
       </div>
     </>
