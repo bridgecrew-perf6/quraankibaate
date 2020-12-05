@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Data from "../data/data.json";
 import "./Message.css";
 import ArrowForwardIosIcon from "@material-ui/icons/ArrowForwardIos";
@@ -10,9 +10,10 @@ const Message = () => {
   const messages = Data.main;
   const message = messages[Math.floor(Math.random() * messages.length)];
 
-  function refreshPage() {
-    window.location.reload();
-  }
+  const [value, setValue] = useState();
+  const refresh = () => {
+    setValue({});
+  };
 
   return (
     <>
@@ -25,7 +26,7 @@ const Message = () => {
         </div>
 
         <div className="message__button">
-          <Fab variant="extended" color="primary" onClick={refreshPage}>
+          <Fab variant="extended" color="primary" onClick={refresh}>
             <AutorenewIcon className="message__buttonIcon" />
             Get New One
           </Fab>
@@ -42,5 +43,4 @@ const Message = () => {
     </>
   );
 };
-
 export default Message;

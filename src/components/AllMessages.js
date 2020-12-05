@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import HomeIcon from "@material-ui/icons/Home";
 
 const AllMessages = () => {
-  const messages = Data.main;
+  const messages = Data.main.sort(() => Math.random() - 0.5);
 
   return (
     <div className="allMessages">
