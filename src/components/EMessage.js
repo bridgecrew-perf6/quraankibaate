@@ -7,29 +7,8 @@ import AutorenewIcon from "@material-ui/icons/Autorenew";
 import { Link } from "react-router-dom";
 import GTranslateIcon from "@material-ui/icons/GTranslate";
 import { Button } from "@material-ui/core";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 
-const Message = () => {
-  // snackbar
-  const notify = () => {
-    navigator.clipboard
-      .writeText(`${message.message} \n ${message.source}`)
-      .then(
-        function () {
-          toast.success("Copied To Your Clipboard!", {
-            position: toast.POSITION.TOP_CENTER,
-          });
-        },
-        function () {
-          /* clipboard write failed */
-          toast.error("Something went wrong!", {
-            position: toast.POSITION.TOP_CENTER,
-          });
-        }
-      );
-  };
-  // end snackbar
+const EMessage = () => {
   const messages = Data.main;
   const message = messages[Math.floor(Math.random() * messages.length)];
 
@@ -42,20 +21,15 @@ const Message = () => {
     <>
       <div className="message">
         <div className="messages__translate">
-          <Link to="/english">
+          <Link to="/">
             <Button>
               <GTranslateIcon />
             </Button>
           </Link>
         </div>
-        {/* demo */}
 
         <div className="message__text">
-          <h1>{message.message}</h1>
-        </div>
-        <div className="message__copyBtn">
-          <Button onClick={notify}>Copy to clipboard</Button>
-          <ToastContainer autoClose={2000} />
+          <h1>{message.english}</h1>
         </div>
         <div className="message__source">
           <h3>{message.source}</h3>
@@ -68,7 +42,7 @@ const Message = () => {
           </Fab>
         </div>
         <div className="message__all">
-          <Link to="/all">
+          <Link to="/allEnglish">
             <Fab variant="extended" color="primary">
               <ArrowForwardIosIcon className="message__buttonIcon" />
               All
@@ -79,4 +53,5 @@ const Message = () => {
     </>
   );
 };
-export default Message;
+
+export default EMessage;
