@@ -13,21 +13,19 @@ import "react-toastify/dist/ReactToastify.css";
 const Message = () => {
   // snackbar
   const notify = () => {
-    navigator.clipboard
-      .writeText(`${message.message} \n ${message.source}`)
-      .then(
-        function () {
-          toast.success("Copied To Your Clipboard!", {
-            position: toast.POSITION.TOP_CENTER,
-          });
-        },
-        function () {
-          /* clipboard write failed */
-          toast.error("Something went wrong!", {
-            position: toast.POSITION.TOP_CENTER,
-          });
-        }
-      );
+    navigator.clipboard.writeText(`${message.message}\n${message.source}`).then(
+      function () {
+        toast.success("Successfully Copied", {
+          position: toast.POSITION.TOP_CENTER,
+        });
+      },
+      function () {
+        /* clipboard write failed */
+        toast.error("Something went wrong!", {
+          position: toast.POSITION.TOP_CENTER,
+        });
+      }
+    );
   };
   // end snackbar
   const messages = Data.main;
@@ -48,14 +46,13 @@ const Message = () => {
             </Button>
           </Link>
         </div>
-        {/* demo */}
 
         <div className="message__text">
           <h1>{message.message}</h1>
         </div>
         <div className="message__copyBtn">
           <Button onClick={notify}>Copy to clipboard</Button>
-          <ToastContainer autoClose={2000} />
+          <ToastContainer autoClose={3000} />
         </div>
         <div className="message__source">
           <h3>{message.source}</h3>
