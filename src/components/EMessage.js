@@ -7,6 +7,7 @@ import AutorenewIcon from "@material-ui/icons/Autorenew";
 import { Link } from "react-router-dom";
 import GTranslateIcon from "@material-ui/icons/GTranslate";
 import { Button } from "@material-ui/core";
+import { toast, ToastContainer } from "react-toastify";
 
 const EMessage = () => {
   const messages = Data.main;
@@ -17,6 +18,23 @@ const EMessage = () => {
     setValue({});
   };
 
+  //
+  const notify = () => {
+    navigator.clipboard.writeText(`${message.english}\n${message.source}`).then(
+      function () {
+        toast.success("Successfully Copied", {
+          position: toast.POSITION.TOP_CENTER,
+        });
+      },
+      function () {
+        /* clipboard write failed */
+        toast.error("Something went wrong!", {
+          position: toast.POSITION.TOP_CENTER,
+        });
+      }
+    );
+  };
+  //
   return (
     <>
       <div className="message">
@@ -30,6 +48,10 @@ const EMessage = () => {
 
         <div className="message__text">
           <h1>{message.english}</h1>
+        </div>
+        <div className="message__copyBtn">
+          <Button onClick={notify}>Copy to clipboard</Button>
+          <ToastContainer autoClose={3000} />
         </div>
         <div className="message__source">
           <h3>{message.source}</h3>

@@ -24,7 +24,7 @@ const EAllMessages = () => {
         );
       })}
       <div className="message__button">
-        <Link to="/">
+        <Link to="/english">
           <Fab variant="extended" color="primary">
             <HomeIcon className="message__buttonIcon" />
             Back To Home

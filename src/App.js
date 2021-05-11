@@ -4,7 +4,6 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import AllMessages from "./components/AllMessages";
 import EMessage from "./components/EMessage";
 import EAllMessages from "./components/EAllMessages";
-import Test from "./components/Test";
 
 const App = () => {
   return (
@@ -14,16 +13,12 @@ const App = () => {
           <Route path="/all">
             <AllMessages />
           </Route>
-          <Route path="/test">
-            <Test />
-          </Route>
-
-          {/* <Route path="/english">
+          <Route path="/english">
             <EMessage />
           </Route>
           <Route path="/allEnglish">
             <EAllMessages />
-          </Route> */}
+          </Route>
           <Route path="/">
             <Message />
           </Route>

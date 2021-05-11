@@ -32,6 +32,7 @@ const Message = () => {
   const message = messages[Math.floor(Math.random() * messages.length)];
 
   const [value, setValue] = useState();
+
   const refresh = () => {
     setValue({});
   };
