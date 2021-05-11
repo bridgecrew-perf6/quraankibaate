@@ -38,7 +38,7 @@ const Message = () => {
   };
 
   return (
-    <>
+    <div>
       <div className="message">
         <div className="messages__translate">
           <Link to="/english">
@@ -74,7 +74,7 @@ const Message = () => {
           </Link>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 export default Message;

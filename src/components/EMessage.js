@@ -36,7 +36,7 @@ const EMessage = () => {
   };
   //
   return (
-    <>
+    <div>
       <div className="message">
         <div className="messages__translate">
           <Link to="/">
@@ -72,7 +72,7 @@ const EMessage = () => {
           </Link>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
