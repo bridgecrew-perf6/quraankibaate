@@ -1,0 +1,1078 @@
+{
+    "main": [
+        {
+            "id": "1",
+            "message": "Buri chal ka wabal us ke karne wale hi par padta hai",
+            "english": "The effects of wrongdoing falls on the doer himself",
+            "source": "Quraan (Sura-e-Fatir - 43)"
+        },
+        {
+            "id": "2",
+            "message": "Jo neki tum apne liye aage bhejoge, use Allah ke paas jaa kr behtar se behtar aur swaab me bohot zyada paoge",
+            "english": "And whatever good deed that you spend forward for your own-selves, you will find it with Allah much better in condition, and much greater in reward",
+            "source": "Quraan (Sura-e-Muzammil - 20)"
+        },
+        {
+            "id": "3",
+            "message": "Tumhare darmiyaan ek jamaat aisi honi chahiye jis ke afrad (logon ko) bhalayi ki taraf bulaye, acche kaamon ka hukum de aur buraayi se roke aur yahi log kamiyaab hone wale hai",
+            "english": "There has to a goup of people from among you who call (people) towards goodness, and forbid evil. These very people shall be successfull",
+            "source": "Quraan (Sura-e-Aale Imran - 104)"
+        },
+        {
+            "id": "4",
+            "message": "Allah ke nazdeek tum me sab se zyada izzat wala wo hai, jo tum me sab se zyada mattaqi (parhezgaar) ho",
+            "english": "Undoubtedly, the most respected amongst you in the sight of Allah is the one who is most pious",
+            "source": "Quraan (Sura-e-Hujuraat - 13)"
+        },
+        {
+            "id": "5",
+            "message": "Agar tum acche kaam karoge to, apne hi fayde ke liye karoge",
+            "english": "If you do good, you will do it for your own benefit",
+            "source": "Quraan (Sura-e-Bani Israeel - 7)"
+        },
+        {
+            "id": "6",
+            "message": "Beshak namaaz behayaai aur bure kaamo se rokti hai",
+            "english": "Undoubtedly, Salah restrains one from shamefull and evil acts",
+            "source": "Quraan (Sura-e-Ankaboot - 45)"
+        },
+        {
+            "id": "7",
+            "message": "Momin mardo se keh do ke woh apni nigahen aur apni sharamgaahon ki hifazat kare, yahi un ke liye sab se zyada pakeeza hai ",
+            "english": "Command the Muslim men to lower thie gaze and guard thier private parts, that is a much purer way for them",
+            "source": "Quraan (Sura-e-Noor - 30)"
+        },
+        {
+            "id": "8",
+            "message": "Padho apne parwardigaar ka naam le kar jis ne sab kuch paida kiya, us ne insaan ko jame hue khoon se paida kiya",
+            "english": "Read with the name of your Lord who created everything. He created man from a clot of blood",
+            "source": "Quraan (Sura-e-Alaq - 1,2)"
+        },
+        {
+            "id": "9",
+            "message": "Jo koi Allah ka sukr ada karta hai, wo khud apne zaati faide ke liye sukr karta hai aur agr koi naashukri kare, to Allah bada beniyaaz, badi khoobiyon wala hai",
+            "english": "And whoever is greateful, is grateful for his own good, and whoever us ungrateful, then certainly Allah is free of alla needs, the most Praisworthy",
+            "source": "Quraan (Sura-e-Luqmaan - 12)"
+        },
+        {
+            "id": "10",
+            "message": "Yakeen rakho ke tumhara rab hi sab ko paida karne wala, sab kuch janne wala hai",
+            "english": "Certainly, your Lord is alone the creator of all, the All Knowing",
+            "source": "Quraan (Sura-e-Hijr - 86)"
+        },
+        {
+            "id": "11",
+            "message": "Jo log (is quraan par) imaan la kar nek amal karte hai, to (ye Quraan) unhe khushkhabri deta hai ke un ke liye bada ajr hai",
+            "english": "Those who believed (on this Quraan) and did good deeds. (this Quraan) gives them glad tiding of great reard",
+            "source": "Quraan (Sura-e-Bani Israeel - 9)"
+        },
+        {
+            "id": "12",
+            "message": "Jo bhi bura amal karega, us ki saza payega",
+            "english": "Whoever does bad deeds, shall be requited for it",
+            "source": "Quraan (Sura-e-Nisa - 123)"
+        },
+        {
+            "id": "13",
+            "message": "Jab koi baat kaho, to insaaf se kaam lo, chahe muamla apne qareebi rishtedaar hi ka ho",
+            "english": "When you judge, do so justly, even in matters concerning your closest relative",
+            "source": "Quraan (Sura-e-An'aam - 152)"
+        },
+        {
+            "id": "14",
+            "message": "(Logo ke saath) neki karo, beshak Allah neki karne waalon se muhabbat karta hai",
+            "english": "And be virtous (with people), undoubtedly the righteous are the beloved of Allah",
+            "source": "Quraan (Sura-e-Baqarah - 195)"
+        },
+        {
+            "id": "15",
+            "message": "Zina ke paas bhi na phatko, wo yaqeeni taur par badi behayaai aur bohot bura rasta hai",
+            "english": "And do not approach adultery, it is indeed a shameful deed, and a very evil path",
+            "source": "Quraan (Sura-e-Bani Israeel - 32)"
+        },
+        {
+            "id": "16",
+            "message": "Jo log apne maal Allah ke raaste me kharch karte hai phir kharch karne ke baad na ehsaas jatlaate hai aur na koi takleef pahonchta hai, wo apne parwardigaar ke paas apna sawaab payege",
+            "english": "Those who spend their wealthin the way of Allah then after spending neither boast of their favour nor cause pain to them, they have their reward with their Lord",
+            "source": "Quraan (Sura-e-Baqarah - 262)"
+        },
+        {
+            "id": "17",
+            "message": "Agar tum nek ban jao, to Allah un logon ki khataaye bohot maaf karta hai, jo kasrat se us ki taraf mutawajjeh hote hai",
+            "english": "If you become righteous, then no doubt. He is Most-Forgiving for those who turn to him in repentance",
+            "source": "Quraan (Sura-e-Bani Israeel - 25)"
+        },
+        {
+            "id": "18",
+            "message": "Aye imaan waalo! tum aisi baat kyu kehte ho jo karte nhi ho? Allah ke nazdeek ye baat badi naraazgi ki hai ke tum aisi baat kaho jo khud karte nhi",
+            "english": "Oh believer! Why do you say, what you don't do? It is most hatefull in Allah's sight that you say, what you don't do",
+            "source": "Quraan (Sura-e-Saf - 2,3)"
+        },
+        {
+            "id": "19",
+            "message": "Tumhara rab khoob janta hai ke tumhare dilon me kya hai",
+            "english": "Your Lord knows vey well what is in your hearts",
+            "source": "Quraan (Sura-e-Bani Israeel - 25)"
+        },
+        {
+            "id": "20",
+            "message": "Tumhara parwardigaar kisi par koi zulm nhi karega",
+            "english": "And you Lord will not be unjust to anyone",
+            "source": "Quraan (Sura-e-Kahaf - 49)"
+        },
+        {
+            "id": "21",
+            "message": "Jo shakhs kisi ki jaan bacha le, to ye aisa hai jaise us ne tamaam insaano ki jaan bacha li",
+            "english": "And whoever saves the life of one person, is as if he has saved the life of all mankind",
+            "source": "Quraan (Sura-e-Maaidah - 32)"
+        },
+        {
+            "id": "22",
+            "message": "Din ke dono siron par aur raat ke kuch hisson me namaaz qaaim karo. Yaqeenan nekiyaan buraaiyon ko mita deti hai. Yeh ek naseehat hai, un logo ke liye jo naseehat maane",
+            "english": "And establish prayer at the two ends of the day and in some parts of the night, indeed good deeds wipe out the bad deeds. This is an advice, to those to heed it",
+            "source": "Quraan (Sura-e-Hood - 114)"
+        },
+        {
+            "id": "23",
+            "message": "Jo sawaal karne waala ho, use mat jhidko",
+            "english": "Do not insult the beggar",
+            "source": "Quraan (Sura-e-Zuha - 10)"
+        },
+        {
+            "id": "24",
+            "message": "Allah tumhare saath asani ka muamla karna chahta hai aur tumhare liye mushkil paida karna nhi chahta ",
+            "english": "Allah intends (to provide) ease for you and does not intend (to create) hardship for you",
+            "source": "Quraan (Sura-e-Baqarah - 185)"
+        },
+        {
+            "id": "25",
+            "message": "Jis baat ka tumhe yakeen na ho,(use sach samajh kar) us ke peeche mat pado. Yakeen rakho ke kaan, aankh aur dil, sab ke baare me (tum se) sawaal hoga",
+            "english": "And do not pursue the matter (assuming it true) you do not have the knowledge of. Surely the ear, the eyes and the heart each of these will be questioned",
+            "source": "Quraan (Sura-e-Bani Israeel - 36)"
+        },
+        {
+            "id": "26",
+            "message": "Aye imaan waalo! Allah ki ita'at karo aur Rasool ki ita'at karo aur apne aamaal ko barbaad na karo",
+            "english": "Oh believer! Obey Allah, and obey the Messanger and let not your good deeds go waste",
+            "source": "Quraan (Sura-e-Muhmmad - 33)"
+        },
+        {
+            "id": "27",
+            "message": "Apne maal ko behooda kaamo me na udao. Yakeen jaano ke jo log behooda kaamo me maal udaate hai, wo shaitaan ke bhai hai",
+            "english": "And do not spend you wealth on shameful acts. No doubt, the over spender (on shameful acts) are the brother of the Devil (Shaitaan)",
+            "source": "Quraan (Sura-e-Bani Israeel - 26,27)"
+        },
+        {
+            "id": "28",
+            "message": "Beshak wo apne bando ke haalaat se acchi tarah baakhabar hai, unhe poori tarah dekh rha hai",
+            "english": "No doubt, He (Allah) is All-Aware of his servant and All-seeing",
+            "source": "Quraan (Sura-e-Bani Israeel - 30)"
+        },
+        {
+            "id": "29",
+            "message": "Har jaandaar ko maut ka maza chakhna hai aur tum ko qayaamat ke din aamaal ka poora poora badla diya jayega",
+            "english": "Every soul shall taste death and you will get you compensation in full only on the Day of Resurrection",
+            "source": "Quraan (Sura-e-Aale-e-Imran - 185)"
+        },
+        {
+            "id": "30",
+            "message": "Beshak Allah khoob taubah karne waalon aur khoob paak saaf rehne waalon se mohbbat karta hai",
+            "english": "No doubt, Allah loves those who are most repenting, and those who keep themselves pure",
+            "source": "Quraan (Sura-e-Baqarah - 222)"
+        },
+        {
+            "id": "31",
+            "message": "Allah aur uske Rasool ki ita'at karo aur aapas me jhagda na karo, warna tum kamzor pad jaoge aur tumhari hawa ukhad jaayegi",
+            "english": "Obey Allah and His Messanger, and do not quarrel with one another, let your prowess should evaporate",
+            "source": "Quraan (Sura-e-Anfaal - 46)"
+        },
+        {
+            "id": "32",
+            "message": "(Aye Allah!) hum teri hi ibaadat karte hai aur sirf tujh hi se madad maangte hai",
+            "english": "Oh Allah we worship you alone, and beg you alone for help",
+            "source": "Quraan (Sura-e-Faatiha - 5)"
+        },
+        {
+            "id": "33",
+            "message": "Jo shakhs seedhi raah par chalata hai, to woh khud apne hi faide ke liye chalata hai",
+            "english": "Whoever adopt the right path, does so for his own benefit",
+            "source": "Quraan (Sura-e-Bani Israeel - 15)"
+        },
+        {
+            "id": "34",
+            "message": "Allah ne har cheez paida ki aur phir us ki taqdeer muqarrar famayi",
+            "english": "Allah created everything and decided its Fate",
+            "source": "Quraan (Sura-e-Furqaan - 2)"
+        },
+        {
+            "id": "35",
+            "message": "Jin logo ne is duniya me acche kaam kiye hai, un hi ke liye bhalaayi hai",
+            "english": "There is good for thos, who have done good in this world",
+            "source": "Quraan (Sura-e-Zumar - 10)"
+        },
+        {
+            "id": "36",
+            "message": "Koi ehsaan is niyat se mat karo ke us se zyada wusool kar sako",
+            "english": "And do not do favour on anyone with the intention of asking more in return",
+            "source": "Quraan (Sura-e-Mudassir - 6)"
+        },
+        {
+            "id": "37",
+            "message": "Tum apne rab se aajizi ke saath chupke chupke dua karo",
+            "english": "Supplicate to your Lord humbly and secretly",
+            "source": "Quraan (Sura-e-Araaf - 55)"
+        },
+        {
+            "id": "38",
+            "message": "Allah Ta'ala farmate hai, mera sukr ada karo aur meri nashukri na karo ",
+            "english": "Allah says, And be grateful to Me and do not ungrateful",
+            "source": "Quraan (Sura-e-Baqarah - 152)"
+        },
+        {
+            "id": "39",
+            "message": "Tamaam tareefe Allah ki hai jo tamaam jahaano ka parwardigaar hai, jo sab par mehrbaan, jo roze jaza (qayaamat) ka maalik hai",
+            "english": "All praise unto Allah, the Lord of alla the worlds, The All-Merciful, the Very Merciful, the Master of the Day of Requital",
+            "source": "Quraan (Sura-e-Faatiha - 1-3)"
+        },
+        {
+            "id": "40",
+            "message": "Allah hi wo hai jis ne tum ko paida kiya aur wohi tumhe rozi deta hai phir (waqt ane par) wohi tum ko maut dega aur phir tum ko wohi dobaara zinda karega",
+            "english": "Allah is, He who created you then gave sustence to you, then He will cause you to die and again will bring you back to life",
+            "source": "Quraan (Sura-e-Room - 40)"
+        },
+        {
+            "id": "41",
+            "message": "Allah behayaai, buraai aur zulm se rokta hai, wo tumhe naseehat karta hai, taake tum naseehat qubool karo",
+            "english": "Allah forbids indecency, evil thing and oppression, he admonished you, that you may be mindful",
+            "source": "Quraan (Sura-e-Nahl - 90)"
+        },
+        {
+            "id": "42",
+            "message": "Jo log imaan laaye aur nek amal kiye, yakeenan hum aise logo ke ajr ko zaaya nhi karte jo acchi tarah amal kare",
+            "english": "Those who believed and did good deeds, verily we shall not let go such good deeds of them unrewarded",
+            "source": "Quraan (Sura-e-Kahaf - 30)"
+        },
+        {
+            "id": "43",
+            "message": "Logo ke saamne (guroor se) gaal mat phulao aur zameen par itraate hue mat chalo. Yakeen jaano Allah kisi itraane waale takabbur karne waale ko pasand nhi karta",
+            "english": "And do not inflate you cheek in front of people and do not walk on the earth haughtily. Undoubtedly Allah does not anyone who is arrogant, proud",
+            "source": "Quraan (Sura-e-Luqmaan - 18)"
+        },
+        {
+            "id": "44",
+            "message": "Duniya ki zindagi to khel tamaashe ke siwa kuch bhi nhi aur yakeen jaano ke jo log parhezgaari ikhtiyaar karte hai, un ke liye aakhirat ka ghar kahi zyada behtar hai",
+            "english": "And the worldy life is nothing but games and amusement, And undoubtedly, the lasy abode is better for those who fear Allah",
+            "source": "Quraan (Sura-e-An'aam - 32)"
+        },
+        {
+            "id": "45",
+            "message": "Agar Allah tumhe koi taqleef pahocha de, to us ke siwa koi nhi hai jo use door kar de",
+            "english": "And if Allah bring some harm to you, then is none to remove it from you except He",
+            "source": "Quraan (Sura-e-Yunus - 107)"
+        },
+        {
+            "id": "46",
+            "message": "Tum rishtedaar ko us ka haq do aur miskeen aur musaafir ko bhi. Jo log Allah ki khushnudi chahte hai, un ke liye ye behtar hai aur wohi log kaamiyaab hone waale hai",
+            "english": "Therefore give the relative his due and to the needy and to the wayfarer also. This is better for those who seek the pleasure of Allah it is them who will become successful",
+            "source": "Quraan (Sura-e-Room - 38)"
+        },
+        {
+            "id": "47",
+            "message": "Apne parwardigaar ka subah wa shaam zikr karo aur kuch raat ko bhi us ke aage sajde kiya karo aur raat ke lambe waqt me us ki tasbeeh karo",
+            "english": "And remember the name of your Lord morning and evening, and in some parts of the night prostrate yourself through the long times of night",
+            "source": "Quraan (Sura-e-Dahr - 25-26)"
+        },
+        {
+            "id": "48",
+            "message": "Jhooti baate bolne se bachte raho",
+            "english": "Refrain from saying lie",
+            "source": "Quraan (Sura-e-Haj - 30)"
+        },
+        {
+            "id": "49",
+            "message": "Kitne jaanwar hai, jo apna rizq uthaye nhi phirte, Allah unhe bhi rizq deta hai aur tumhe bhi",
+            "english": "There are many animals, that do not carry their provisions around with them! Allah provide for them and for you too",
+            "source": "Quraan (Sura-e-Ankaboot - 60)"
+        },
+        {
+            "id": "50",
+            "message": "Kisi paigambar ko yeh ikhtiyaar nhi hai ke woh Allah ki ijaazat ke begair koi mo'jiza le aye",
+            "english": "And it is not upto a messenger that he can perform any miracle without Allah's permission",
+            "source": "Quraan (Sura-e-Momin - 78)"
+        },
+        {
+            "id": "51",
+            "message": "Aye imaan walo! apne aap ko aur apne ghar waalon ko us aag se bachao, jis ka eindhan insaan aur patthar honge",
+            "english": "O believers! save yourselves and your family members from the Fire, whose fuel are humans and stones",
+            "source": "Quraan (Sura-e-Tahreem - 6)"
+        },
+        {
+            "id": "52",
+            "message": "Aye imaan walo! tum par (Ramzaan ke) roze farz kar diye gaye hai, jis tarah tum se pehle logo par farz kiye gaye the, taake tumhare andar taqwa paida ho",
+            "english": "O believers! Fasting (in the month of Ramazaan) has been made obligatory upon you as was made obligatory upon those before you, so that you may attain piety",
+            "source": "Quraan (Sura-e-Baqarah - 183)"
+        },
+        {
+            "id": "53",
+            "message": "Aye imaan walo! tum shaitaan ke peeche na chalo aur agr koi shakhs shaitaan ke peeche chale, to shaitaan to hamesha behayaai aur buri baato ka hukm dega",
+            "english": "O believers! follow not the footsteps of the devil (Shaitaan). And whoever follows the footsteps of the devil, then he will only lead you towards indecency and evil things",
+            "source": "Quraan (Sura-e-Noor - 21)"
+        },
+        {
+            "id": "54",
+            "message": "Deen ke muaamle me koi zabardasti nhi hai",
+            "english": "There is no compulsion in religion",
+            "source": "Quraan (Sura-e-Baqarah - 256)"
+        },
+        {
+            "id": "55",
+            "message": "Yakeen rakho ke qayaamat ki ghadi zaroor ane wali hai, jis me kisi shak ki gunjaaish nhi hai, lekin aksar log imaan nhi laate",
+            "english": "Certainly, the hour of judgement is bounf to come, there is no doubt in it, most of the people do not believe",
+            "source": "Quraan (Sura-e-Momin - 59)"
+        },
+        {
+            "id": "56",
+            "message": "Kisi bhi kaam ke baare me kabhi ye na kaho ke mai ye kaam kal kar luga, haa (yeh kaho ke) agar Allah chaahega to (kar luga)",
+            "english": "And never say about anything, \"I will do this tomorrow\", But unless say \"if Allah will's\"",
+            "source": "Quraan (Sura-e-Kahaf - 23-24)"
+        },
+        {
+            "id": "57",
+            "message": "Agar tumhe khud ilm nhi hai, to naseehat ka ilm rakhne waalo se pooch lo",
+            "english": "If you don't know, so ask the people (having the knowledge) of the message",
+            "source": "Quraan (Sura-e-Ambiya - 7)"
+        },
+        {
+            "id": "58",
+            "message": "Keh do ke (Allah) wohi hai jis ne tumhe paida kiya aur tumhare liye kaan, aankhe aur dil banaye, (magar) tum log bohot kam shukr ada karte ho",
+            "english": "Say, it is He (Allah) who has created you, and made for you ears and eyes and hearts; How little you pay gratitude",
+            "source": "Quraan (Sura-e-Mulk - 23)"
+        },
+        {
+            "id": "59",
+            "message": "Tum par jo bhi museebat aati hai, wo tumhare apne hi haatho ki kamaayi ki wajah se aati hai",
+            "english": "Whatever hardship befalls you, is due to the deeds of what your own hands have committed",
+            "source": "Quraan (Sura-e-Shura - 30)"
+        },
+        {
+            "id": "60",
+            "message": "Mujrim log aag ko dekhege, to samjh jayege ke unhe usi me girna hai aur us se bach nikalne ka koi raasta nhi payege",
+            "english": "And the guilty shall see the fire and know it for them to fall in and there will be no way of escape from it",
+            "source": "Quraan (Sura-e-Kahaf - 53)"
+        },
+        {
+            "id": "61",
+            "message": "Koi bojh uthaane waala kisi doosre ka bojh (gunaah) nhi uthaayega",
+            "english": "And no bearer of burden shall bear the burden of another (person's sins)",
+            "source": "Quraan (Sura-e-Bani Israeel - 15)"
+        },
+        {
+            "id": "62",
+            "message": "Beshak Allah ehsaan karne waalo ko pasand karta hai",
+            "english": "Undoubtedlty, Allah loves the ones who are good in deeds",
+            "source": "Quraan (Sura-e-Maaidah - 13)"
+        },
+        {
+            "id": "63",
+            "message": "Jo log sone chandi ko jama kar kar ke rakhte hai aur us ko Allah ke raaste me khrach nhi karte, un ko ek dardnaak azaab ki khush khabri suna do",
+            "english": "And those who hoard up gold and silver and do not spend in the path of Allah, give them the good tiding of a painful torment",
+            "source": "Quraan (Sura-e-Tauba - 34)"
+        },
+        {
+            "id": "64",
+            "message": "Sabr se kaam lo, is liye ke Allah Ta'ala neki karne waalo ka ajr zaaya nhi karta",
+            "english": "And be patient, Allah does not waste the reward of the righteous",
+            "source": "Quraan (Sura-e-Hood - 115)"
+        },
+        {
+            "id": "65",
+            "message": "Ye duniyawi zindagi to (Jannat ke muqaable me) dhoke ke saamaan ke siwa kuch bhi nhi",
+            "english": "And the worldy life (compared to Paradise) is nothing but an illusionary enjoyment",
+            "source": "Quraan (Sura-e-Aale Imran - 185)"
+        },
+        {
+            "id": "66",
+            "message": "Us (Allah) ki aisi badaayi bayaan karo jaisi badaayi bayaan karne ka use haq hasil hai",
+            "english": "And proclaim his (Allah's) Greatness, an open proclamation",
+            "source": "Quraan (Sura-e-Bani Israeel - 111)"
+        },
+        {
+            "id": "67",
+            "message": "Tum Allah se daro aur apne aapas ke ta'alluqaat durust kar lo aur Allah aur us ke Rasool ki ita'at karo, agr tum waaqai imaan waale ho",
+            "english": "Then fear Allah and set things right among yourselves and obey Allah and His messenger, if you are a believer",
+            "source": "Quraan (Sura-e-Anfaal - 1)"
+        },
+        {
+            "id": "68",
+            "message": "Kya tum (doosre) logo ko to neki ka hukm dete ho aur khud apne aap ko bhool jaate ho?",
+            "english": "Do you preach righteousness to people and forget about that yourselves?",
+            "source": "Quraan (Sura-e-Baqarah - 44)"
+        },
+        {
+            "id": "69",
+            "message": "Rahman ke bande wo hai, jo zameen par aajizi se chalte hai",
+            "english": "And the people of Allah the most affectionate are those who walk on this eath modestly",
+            "source": "Quraan (Sura-e-Furqaan - 63)"
+        },
+        {
+            "id": "70",
+            "message": "Tum apne aap ko qatl na karo, beshak Allah Ta'ala tum par bada meharbaan hai",
+            "english": "And do not kill yourselves, Undoubtedly, Allah is very Merciful to you",
+            "source": "Quraan (Sura-e-Nisa - 29)"
+        },
+        {
+            "id": "71",
+            "message": "Kaho ke tamaam ta'areefe Allah ki hai, jis ne na koi beta banaaya aur na us ki saltanat wa hukumat me koi shareek hai",
+            "english": "And say, All parise belongs to Allah who has neither had a son, nor is there any partner to Him in His kingdom",
+            "source": "Quraan (Sura-e-Bani Israeel - 111)"
+        },
+        {
+            "id": "72",
+            "message": "Allah Ta'ala ehsaan karne waalo ka ajr barbaad nhi hai krta",
+            "english": "Allah never wastes the reward of those who do good",
+            "source": "Quraan (Sura-e-Tauba - 120)"
+        },
+        {
+            "id": "73",
+            "message": "Us (Allah) se darte raho aur namaaz qaaim karo aur un logo ke saath shaamil na ho, jo Allah ke saath doosro ko shareek theraate hai",
+            "english": "Fear (Allah) and offer salaah and don't involve yourself with those, who associate others with Allah",
+            "source": "Quraan (Sura-e-Room - 31)"
+        },
+        {
+            "id": "74",
+            "message": "Jo log ye chahte hai ke musalmaano me behayaai phaile, un ke liye duniya wa aakhirat me dardnaak azaab hai",
+            "english": "Surely, those who like that lewdness spreads among the believers, for them there is painful punishment in this world and Hereafter",
+            "source": "Quraan (Sura-e-Noor - 19)"
+        },
+        {
+            "id": "75",
+            "message": "Beshak wo log jo yateemo ka maal zulman khaate hai, wo apne peton me aag bharte hai, wo anqareeb jahannam me jayege",
+            "english": "Those who devour the property/wealth of orphans by unfair means, are filling their bellies with fire, Soon they shall enter a blazing fire",
+            "source": "Quraan (Sura-e-Nisa - 10)"
+        },
+        {
+            "id": "76",
+            "message": "Allah wohi hai jo tumhara parwardigaar hai aur Allah badi shaan waala hai, jo saare jahaano ka parwardigaar hai",
+            "english": "That is Allah, your Lord. So Glorious is Allah, the Lord of the worlds",
+            "source": "Quraan (Sura-e-Momin - 64)"
+        },
+        {
+            "id": "77",
+            "message": "Beshak ye Quraan wo raasta dikhaata hai jo sab se zyada seedha hai",
+            "english": "No doubt, the quraan shows the most righteous path",
+            "source": "Quraan (Sura-e-Bani Israeel - 9)"
+        },
+        {
+            "id": "78",
+            "message": "Aye imaan waalo! Allah se daro aur sacche logo ke sath raha karo",
+            "english": "O believers! fear Allah and be in the company of the truthful",
+            "source": "Quraan (Sura-e-Tauba - 119)"
+        },
+        {
+            "id": "79",
+            "message": "Jo zakaat tum Allah ki khusnudi hasil karne ke iraade se dete ho, to jo log bhi aisa karte hai, wo (apne maal ko) kayi guna badha lete hai",
+            "english": "When you give zakaat seeking Allah's pleasure and whoever does the same, They find their wealth increased Manifold",
+            "source": "Quraan (Sura-e-Room - 39)"
+        },
+        {
+            "id": "80",
+            "message": "(Allah Ta'ala farmate hai) mujhe yaad karo mai tumhe yaad rakhuga",
+            "english": "(Allah says) remember Me, I shall remember you",
+            "source": "Quraan (Sura-e-Baqarah - 152)"
+        },
+        {
+            "id": "81",
+            "message": "Allah Ta'ala naashukre aur gunehgaar bande ko pasand nhi karta ",
+            "english": "And Allah does not love the ungrateful and the sinner",
+            "source": "Quraan (Sura-e-Baqarah - 276)"
+        },
+        {
+            "id": "82",
+            "message": "Wohi (Allah) hai jo maao ke pet me jis tarah chaahta hai tumhari soorate banata hai. Us ke siwa koi ma'bood nhi. Woh zabardast hukumat ka bhi maalik hai, a'ala darje ki hikmat ka bhi",
+            "english": "It is He (Allah) who forms your shape in the wombs of your mother as He pleases. Besides whom none is to worshiped, the dominant, the wise",
+            "source": "Quraan (Sura-e-Aale Imraan - 6)"
+        },
+        {
+            "id": "83",
+            "message": "Agar faisla kro to logo ke darmiyaan insaaf ke sath faisla karo, yakeenan Allah Ta'ala insaaf karne waalo se muhabbat karta hai",
+            "english": "And if you judge between people then be just. Undoubtedly, Allah loves the people who do justice",
+            "source": "Quraan (Sura-e-Maaidah - 42)"
+        },
+        {
+            "id": "84",
+            "message": "Apne kapdo ko paak rakho aur gandagi se door raho",
+            "english": "And keep your clothes clean and stay from (all kind of) dirt",
+            "source": "Quraan (Sura-e-Mudassir - 4-5)"
+        },
+        {
+            "id": "85",
+            "message": "Badi khraabi hai aise shakhs ke liye, jo peeth piche doosro par aib lagaane waala aur munh par taana dene ka aadi ho",
+            "english": "Woe to him who is addicted to backbiting and taunting people",
+            "source": "Quraan (Sura-e-Humzah - 1)"
+        },
+        {
+            "id": "86",
+            "message": "Allah wohi hai jis ke siwa koi ma'bood nhi, jo sada zinda hai, poori kaainaat sambhaale hue hai",
+            "english": "Allah-none is worthy of worship except Him, He is alive (eternally) and the Upholder of the world",
+            "source": "Quraan (Sura-e-Aale Imraan - 2)"
+        },
+        {
+            "id": "87",
+            "message": "Maa Baap ke saath acche sulook karo",
+            "english": "Treat your parents well",
+            "source": "Quraan (Sura-e-Nisa - 36)"
+        },
+        {
+            "id": "88",
+            "message": "Apne parwardigaar ki hamd ke saath saath us ki tasbeeh bayaan karo aur us se magfirat maango. Yakeen jaano wo bohot maaf karne wala hai",
+            "english": "Praise Allah and glorify Him and ask for his forgiveness. Undoubtedly, He is Most forgiving",
+            "source": "Quraan (Sura-e-Nasr - 3)"
+        },
+        {
+            "id": "89",
+            "message": "Allah ne tumhe jo kuch de rakha hai, us ke zariye aakhirat waala ghar banane ki koshish karo aur duniya me se bhi apne hisse ko nazar andaaz na karo",
+            "english": "And seek by means of that what Allah has bestowed on you, the home of the Heareafter, and forget not your share in the world",
+            "source": "Quraan (Sura-e-Qasas - 77)"
+        },
+        {
+            "id": "90",
+            "message": "Aye imaan waalo! apne sadqaat ko ehsaan jata kr aur takleef pahoncha kar baatil na karo",
+            "english": "O Believer! Do not invalidate your charity by expressing favour and causing pain",
+            "source": "Quraan (Sura-e-Baqarah - 264)"
+        },
+        {
+            "id": "91",
+            "message": "Beshak tumhaara parwardigaar Allah hai, jis ne saare aasmaano aur zameen ko 6 din me paida kiya",
+            "english": "No doubt! your Lord is Allah, Who made the heavens and earh in six days",
+            "source": "Quraan (Sura-e-Yunus - 3)"
+        },
+        {
+            "id": "92",
+            "message": "Apni aulaad ko tangi ke dar se qatl mat karo, hum un ko bhi rizq dege aur tum ko bhi, beshak un ka qatl karna bada gunaah hai",
+            "english": "And kill not your children of the fear of poverty; We shall provide for them and for you too. No doubt, their murder is a great sin",
+            "source": "Quraan (Sura-e-Bani Israeel - 31)"
+        },
+        {
+            "id": "93",
+            "message": "Jo koi apne parwardigaar se mulaaqaat ki aarzu rakhta hai, to use chahiye ke nek amal kare aur apne parardigaar ki ibaadat me kisi ko shareek na thhehraaye",
+            "english": "Whoever hopes to meet his Lord, let him do a rightious deed, and never associate anyone in the worship of his Lord",
+            "source": "Quraan (Sura-e-Kahf - 110)"
+        },
+        {
+            "id": "94",
+            "message": "Jo log sabr se kaam lete hai, un ka sawaab unhe behisaab diya jaayega",
+            "english": "The steadfast shall be fully rewarded without measure",
+            "source": "Quraan (Sura-e-Zumar - 10)"
+        },
+        {
+            "id": "95",
+            "message": "Jo apne maalo ko raat din chhupe aur khule taur par kharch karte hai, un ke liye un ke Rab ke paas ajr wa sawaab hai aur unhe na koi khauf hoga aur na woh gamgeen honge",
+            "english": "Those who spend their wealth in the night and in the day secretly and openly have thier reward with their Lord. There will neither be any fear nor any grief to them",
+            "source": "Quraan (Sura-e-Baqarah - 274)"
+        },
+        {
+            "id": "96",
+            "message": "Jaadugar chaahe khi bhi chala jaaye, use kaamyaabi naseeb nhi hoti",
+            "english": "And the magician does not prosper, anywhere he goes",
+            "source": "Quraan (Sura-e-Taahaa - 69)"
+        },
+        {
+            "id": "97",
+            "message": "Tum me se jo (mard wa aurat) be-nikaah hai, un ka nikaah kara do",
+            "english": "And perform marriage of those [Men or Women] among you who are unmarried",
+            "source": "Quraan (Sura-e-Noor - 32)"
+        },
+        {
+            "id": "98",
+            "message": "Apne ghar waalon ko namaaz ka hukm do aur khud bhi us ke paaband raho, hum tum se rizq nahi chahte, rizq to hum tumhe dege aur behtar anjaam taqwa hi ka hai",
+            "english": "And bid your family to perform salah, and adhere to it yourself, we ask not of you a sustenance, we shall provide you and the good end is for those who have Taqwa",
+            "source": "Quraan (Sura-e-Taahaa - 132)"
+        },
+        {
+            "id": "99",
+            "message": "Yeh duniyawi zindagi to bas thoda sa maza hai aur yakeen jaano ke aakhirat hi rehne basne ka asal ghar hai",
+            "english": "Worldly life is only temporary enjoyment, and Certainly the hereafter is your permanent obode",
+            "source": "Quraan (Sura-e-Momin - 39)"
+        },
+        {
+            "id": "100",
+            "message": "Agar tum sadqaat zaahir kar ke do tab bhi accha hai aur agar un ko chhupa kar fuqaea ko do to ye tumhare haq me zyada behtar hai",
+            "english": "If you do charity openly it is good enough, if you keep it secret and give it to the needy, it is much better for you",
+            "source": "Quraan (Sura-e-Baqarah - 271)"
+        },
+        {
+            "id": "101",
+            "message": "Qasmo ko pukhta karne ke baad unhe mat todo",
+            "english": "Do not break solemnly promised oaths",
+            "source": "Quraan (Sura-e-Nahl - 91)"
+        },
+        {
+            "id": "102",
+            "message": "Aapas me ehsaan karna mat bhoolo, jo bhi tum karte ho, Allah yakeenan use dekh rha hai",
+            "english": "Do not stop doing favour to each other and All yours deeds are being seen by Allah",
+            "source": "Quraan (Sura-e-Baqarah - 237)"
+        },
+        {
+            "id": "103",
+            "message": "Tum jaha bhi hoge (ek na ek din) maut tumhe aa pakdegi, chahe tum mazboot qil'on me kyu na reh rhe ho",
+            "english": "Whenever you may be death will find you, even if you are staing in strong well protected forts",
+            "source": "Quraan (Sura-e-Nisa - 78)"
+        },
+        {
+            "id": "104",
+            "message": "Neki aur buraai baraabar nahi hoti, is liye tum buraai ka jawaab aise tareeqe se do jo behtareen ho, nateeja ye hoga ke tujh me aur jis se dusmani thi, wo dekhte hi dekhte (tumhara) jigri dost ban jayega",
+            "english": "Good and evil are not equal, repel evil with what is best, then there between whom and you there was enmity, will become as though he was your close friend",
+            "source": "Quraan (Sura-e-Haa Meem sajdah - 34)"
+        },
+        {
+            "id": "105",
+            "message": "Agar tum maaf kardo aur darguzar kardo aur bakhsh do, to Allah bohot bakhshne waala, bada maherbaan hai",
+            "english": "If you pardon and over-look and forgive, then, undoubtedly Allah is All Forgiving, Merciful ",
+            "source": "Quraan (Sura-e-Tagbaabun - 14)"
+        },
+        {
+            "id": "106",
+            "message": "Wo shakhs kaamyaab ho gaya jisne apne aap ko paak kar liya aur apne parwardigaar Ka naam liya aur namaaz padhi",
+            "english": "Undoubtedly!, he has attained success who is purified, And has offered prayer remembering the name of his Lord",
+            "source": "Quraan (Sura-e-A'ala - 15)"
+        },
+        {
+            "id": "107",
+            "message": "Jab tum gharo me daakhil ho, to apne logo ko salaam kiya karo ye mulaqaat ki wo baabarkat pakeeza dua hai jo Allah ki taraf se aayi hai",
+            "english": "Then when you enter homes, greet one another with Salaam, a nice greeting from Allah which is blessed and pure",
+            "source": "Quraan (Sura-e-Noor - 61)"
+        },
+        {
+            "id": "108",
+            "message": "Jis shakhs ke (nek amaal ke) palde wazani honge, to woh manpasand zindagi me hoga",
+            "english": "Then as for him whose (good deeds) weight heavy, He will lead a pleasing life",
+            "source": "Quraan (Sura-e-Qaari'ah - 6-7)"
+        },
+        {
+            "id": "109",
+            "message": "(Aye imaan waalo) kisi ke uyoob ki talaash me mat raho",
+            "english": "Do not look out for faults of others",
+            "source": "Quraan (Sura-e-Hujurat - 12)"
+        },
+        {
+            "id": "110",
+            "message": "Jab tum koi muaahada karo, to Allah se kiye hue ahad ko poora karo",
+            "english": "And fulfil the covenant of Allah, when you have made a pledge",
+            "source": "Quraan (Sura-e-Nahl - 91)"
+        },
+        {
+            "id": "111",
+            "message": "Aye logo! apne parwardigaar (ki naraazgi) se bacho aur us din se daro, jis din koi baap apne bete ke bhi kaam nhi aayega aur na koi aulaad apne baad ke kuch kaam aayegi",
+            "english": "O people! Fear your Lord and have apprehension of the day when no father will be of any avail to his son and nor any son will be able to provide any benefit to his father",
+            "source": "Quraan (Sura-e-Luqmaan - 33)"
+        },
+        {
+            "id": "112",
+            "message": "Neki aur taqwa (ke kaamo) me ek doosre ki madad karo",
+            "english": "And help each other in righteousness and piety",
+            "source": "Quraan (Sura-e-Maaidah - 2)"
+        },
+        {
+            "id": "113",
+            "message": "Raat ke kuch hisse me tahajjud padha karo, jo tumhare liye ek izaafi ibaadat hai",
+            "english": "And offer Tahajjud in some portion of the night, this is prescribed specially for you",
+            "source": "Quraan (Sura-e-Bani Israeel - 79)"
+        },
+        {
+            "id": "114",
+            "message": "Aap mere bando se keh dijiye ke wahi baat kaha kare jo behtareen ho",
+            "english": "And say to My slaves that they should speak that which is best",
+            "source": "Quraan (Sura-e-Bani Israeel - 53)"
+        },
+        {
+            "id": "115",
+            "message": "Beshak Allah Ta'ala kisi bhi khayaanat karne wale gunehgaar ko pasand nhi karta",
+            "english": "Surely, Allah does not like anyone who is a sinful betrayer",
+            "source": "Quraan (Sura-e-Nisa - 107)"
+        },
+        {
+            "id": "116",
+            "message": "Jo shakhs Allah aur uske Rasool ka kehna na maane, wo khuli hui gumraahi me hai",
+            "english": "And whoever disobeys Allah and His Messenger, he undoubtedly, has transgressed",
+            "source": "Quraan (Sura-e-Ahzaab - 36)"
+        },
+        {
+            "id": "117",
+            "message": "Un (biwiyion) ke saath bhale andaaz me zindagi basar karo, agar wo tum ko nahi bhaati hai, to ho skata hai ke tum ko ek cheez naapasand ho aur Allah ne usi me bohot saari khoobiyaan rakhi ho",
+            "english": "And treat (wives) them fairly, then of you dislike them, it is likely that you may dislike something and wherein Allah has placed much good in it",
+            "source": "Quraan (Sura-e-Nisa - 19)"
+        },
+        {
+            "id": "118",
+            "message": "Beshak Allah aur us ke farishte  صَلَّىٰ ٱللَّٰهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ  par rehmat bhejte hai. Aye imaan waalo tum bhi un par durood bhejo aur khoob salaam bheja karo",
+            "english": "Indeed Allah and His angels send blessing on the Prophet ﷺ ; O Believer! Send blessing and abundant salutation(Salam) upon him",
+            "source": "Quraan (Sura-e-Ahzaab - 56)"
+        },
+        {
+            "id": "119",
+            "message": "Aye imaan waalo! Sabr aur Namaaz se madad haasil karo, beshak Allah sabr karne waalo ke saath hai",
+            "english": "O Believer! Seek help with patience and prayer, no doubt, Allah is with Patient",
+            "source": "Quraan (Sura-e-Baqarah - 153)"
+        },
+        {
+            "id": "120",
+            "message": "Haakimo ke paas maalo ka muqadama is harz se na le jaao ke logo ke maal ka koi hissa jaante bhoojhte hadap karne ka gunaah karo ",
+            "english": "And dont take their cases to the authorities knowingly for sole purpose of devouring unlawfully some portion of the property of the people",
+            "source": "Quraan (Sura-e-Baqarah - 188)"
+        },
+        {
+            "id": "121",
+            "message": "Zameen par chalne phirne waale koi jaandaar aisa nhi hai, jis ki rozi Allah ne apne zimme na le rakhi ho",
+            "english": "And there is none moving on this earth, the provision of whom is not upon the generous responsiblity of Allah",
+            "source": "Quraan (Sura-e-Hood - 6)"
+        },
+        {
+            "id": "122",
+            "message": "Kisi qaum ki dushmani tumhe (un ke saath) naaisaafi karne par na ubhaare, insaaf se kaam lo, yahi tareeqa parezgaari se zyaada qareeb hai",
+            "english": "Do not let the enmity of people tempt you not to do justice with them; Do justic. That is nearer to piety(Taqwa)",
+            "source": "Quraan (Sura-e-Maaidah - 8)"
+        },
+        {
+            "id": "123",
+            "message": "Jab Quraan kareem padha jaye, to us ko kaan laga kar suno aur khaamosh raho, taake tum par rehmat ho",
+            "english": "And when the Quran is recited hear it patiently and be silent; so that you may recieve mercy",
+            "source": "Quraan (Sura-e-A'raaf - 204)"
+        },
+        {
+            "id": "124",
+            "message": "Zameen par akad kar mat chalo, na tum zameen ko phaad sakte ho aur na pahaado ki bulandi tak pahoch sakte ho",
+            "english": "And walk not on earth boastfully, undoubtedly, you shall never cleave the earth, and shall never reach to mountains in height",
+            "source": "Quraan (Sura-e-Bani Israeel - 37)"
+        },
+        {
+            "id": "125",
+            "message": "Jo log sood khaate hai, wo (qayaamat me) us shakhs ki tarah uthenge, jise shaitaan ne chhu kar paagal bana diya ho",
+            "english": "Those who devour interest, shall not stand (Day of Judgement) but as on whom the demon has driven crazy by his touch",
+            "source": "Quraan (Sura-e-Baqarah - 275)"
+        },
+        {
+            "id": "126",
+            "message": "Beshak parhezgaar log jannat ke baagon aur chashmon me rahege",
+            "english": "No doubt, the God-fearing will be in the gardens and streams of jannah",
+            "source": "Quraan (Sura-e-Hijr - 45)"
+        },
+        {
+            "id": "127",
+            "message": "Khao aur piyo aur fuzool kharchi na karo, yaad rakho ke Allah fuzool kharch logo ko pasand nhi karta",
+            "english": "Eat and drink and do not be extravagant, Surely Allah does not like the extravagant",
+            "source": "Quraan (Sura-e-A'raaf - 31)"
+        },
+        {
+            "id": "128",
+            "message": "Jo log baitullah tak pahochne ki taqat rakhte ho, un par Allah ke liye us ghar ka Haj farz hai",
+            "english": "For the sake of Allah it is Farz on the people to perform Hajj of House(Baitullah), on everyone who has the ability to reach it",
+            "source": "Quraan (Sura-e-Aale Imaraan - 97)"
+        },
+        {
+            "id": "129",
+            "message": "Beshak shaitaan tumhara dushman hai, to tum bhi use dushman hi samjho",
+            "english": "Undoubtedly, the devil is your enemy, so you too take him is as an enemy",
+            "source": "Quraan (Sura-e-Faatir - 6)"
+        },
+        {
+            "id": "130",
+            "message": "Naap tol me kami karne waalo ke liye badi khraabi hai",
+            "english": "Woe is to those who give short in weight and measure",
+            "source": "Quraan (Sura-e-Mutaffeen - 1)"
+        },
+        {
+            "id": "131",
+            "message": "Tum me se jo imaan laye hai aur unho ne (Allah ke raaste me) kharch kiya hai, un ke liye bada sawaab hai",
+            "english": "Those of you who are believers and spent ( in the way of Allah ), for them is great reward",
+            "source": "Quraan (Sura-e-Hadeed - 7)"
+        },
+        {
+            "id": "132",
+            "message": "Jis tarah Allah ne tum par ehsaan kiya hai, tum bhi (doosro par) ehsaan karo",
+            "english": "And do good to Allah has done good to you",
+            "source": "Quraan (Sura-e-Qasas - 77)"
+        },
+        {
+            "id": "133",
+            "message": "Apne parwardigaar ke naam ki tasbeeh karo, jis ki shaan sab se oonchi hai, jis ne sab kuch paida kiya aur theek theek banaya",
+            "english": "Glorify the name of your Lord, the Most high, who created everything and made it well",
+            "source": "Quraan (Sura-e-A'ala - 1-2)"
+        },
+        {
+            "id": "134",
+            "message": "Momin aurato se keh do ke woh apni nigahen neechi rakhe aur apni sharamgaahon ki hifazat kare aur apni sajaawat ko kisi par zaahir na kare",
+            "english": "And order the Momin women to lower their gaze and guard their chastity and show not their adoranment",
+            "source": "Quraan (Sura-e-Noor - 31)"
+        },
+        {
+            "id": "135",
+            "message": "Un (yateemo) ka maal apne maal ke saath mila kar mat khao, beshak ye bada gunaah hai",
+            "english": "Do not mix and consume the property of an orphan with yours, undoubtedly, it is a great sin",
+            "source": "Quraan (Sura-e-Nisa - 2)"
+        },
+        {
+            "id": "136",
+            "message": "Jis shakhs ko dozakh se door hata liya gaya aur jannat me daakhil kar diya gaya, woh sahi maana me kaamyaab ho gaya",
+            "english": "Whosever is saved from the Fire and made enter into Paradise, has real succeeded",
+            "source": "Quraan (Sura-e-Aale Imraan - 185)"
+        },
+        {
+            "id": "137",
+            "message": "Gunaah aur zulm me kisi ki madad na karo aur Allah se darte raho, beshak Allah ka azaab bada sakht hai",
+            "english": "And help not one another in sin and transgression. And fear Allah, Indeed Allah's pusnishment is very sevre",
+            "source": "Quraan (Sura-e-Maaidah - 2)"
+        },
+        {
+            "id": "138",
+            "message": "Beshak Allah inssaf ka, ehssan ka aur rishtedaaro ko (un ke huqooq) dene ka hukm deta hai",
+            "english": "Undoubtedly, Allah enjoins to adopt good behaviour and to give relatives ( their due rights)",
+            "source": "Quraan (Sura-e-Nahl - 90)"
+        },
+        {
+            "id": "139",
+            "message": "Allah yakeenan tawakkul karne waalo se muhabbat karta hai",
+            "english": "Allah undoubtedly love those who trust in Him",
+            "source": "Quraan (Sura-e-Aale Imraan - 159)"
+        },
+        {
+            "id": "140",
+            "message": "Tum ek doosre ko taana na diya karo aur na ek doosre ko bure naamo se pukaaro",
+            "english": "And do not taunt one another nor call another by offensive nick-name",
+            "source": "Quraan (Sura-e-Hujurat - 11)"
+        },
+        {
+            "id": "141",
+            "message": "Yaqeenan Allah tumhe hukm deta hai ke tum amaanate un ke haqdaaro tak pahuchao",
+            "english": "(Muslim!) Undoubtedly, Allah commands you to deliver trusts to their rightful owners",
+            "source": "Quraan (Sura-e-Nisa - 58)"
+        },
+        {
+            "id": "142",
+            "message": "Jo log imaan laaye hai aur nek amal kiye hai, un ko hum zaroor jannat ke aise oonche makaano me aabaad karege jin ke neeche nehre behti hogi, jaha wo hamesha rahege",
+            "english": "Those who believe and do good deeds, we shall grant them such lofty apartments in Paradise where streams flow from below them and they will live there for enternity",
+            "source": "Quraan (Sura-e-Ankaboot - 58)"
+        },
+        {
+            "id": "143",
+            "message": "Aap yateem par sakhti na kijiye",
+            "english": "Therefore do not oppress the orphan",
+            "source": "Quraan (Sura-e-Zuha - 9)"
+        },
+        {
+            "id": "144",
+            "message": "Tum apne parwardigaar (ki khushnudi) ke liye namaaz padho aur qurbaani karo",
+            "english": "So offer Salah to your Lord ( for his pleasure ) and perform the sacrifice",
+            "source": "Quraan (Sura-e-Kausar - 2)"
+        },
+        {
+            "id": "145",
+            "message": "Aye imaan waalo! mard doosre mardo ka mazaaq na udaaye ho sakta hai ke wo (jin ka mazaaq udaaya gaya hai) khud un (mazaaq udaane waalo) se behtar ho",
+            "english": "O believers! Let not men scoff at other men, perchance they may be better than those who scoff",
+            "source": "Quraan (Sura-e-Hujurat - 11)"
+        },
+        {
+            "id": "146",
+            "message": "Aye logo! Zameen me jo halaal paakeeza cheeze hai wo khao aur shaitaan ke naqshe qadam par na chalo, yakeen jaano ke wo tumhare liye ek khula dushman hai",
+            "english": "O Mankind! Eat of whatever is in earth lawful clean and follow not the steps of the Devil, no doubt, he is your open enemy",
+            "source": "Quraan (Sura-e-Baqarah - 168)"
+        },
+        {
+            "id": "147",
+            "message": "Beshak Allah seeno me chhupi hui baato ko bhi khoob janta hai",
+            "english": "Surely Allah is aware of even the deepest and darkest secrets in one's heart",
+            "source": "Quraan (Sura-e-Luqmaan -23)"
+        },
+        {
+            "id": "148",
+            "message": "Agar koi shakhs galati ya gunaah kare, phir us ka ilzaam kisi be-gunaah par laga de, to woh bada bhaari bohtaan aur khule gunaah ka bojh apne upar laad leta hai",
+            "english": "Whoever makes a miske or commit crime, then knowingly falsely accuses an innocent person, certainly he has loaded a great sun and misdeed on himself",
+            "source": "Quraan (Sura-e-Nisa -112)"
+        },
+        {
+            "id": "149",
+            "message": "Tum me se jo log imaan laaye hai aur jis ko ilm ata kiya gaya hai, Allah un ko darjon me buland karega",
+            "english": "Allah will raise in degree, those of you believe and those who are endowed with knowledge",
+            "source": "Quraan (Sura-e-Mujaadalah - 11)"
+        },
+        {
+            "id": "150",
+            "message": "Jo gumraahi ka raasta ikhtiyaar karta hai, wo apne hi nuqsaan ke liye ikhtiyaar karta hai",
+            "english": "And whosever strayed, he strayed for his own loss",
+            "source": "Quraan (Sura-e-Bani Israeel - 15)"
+        },
+        {
+            "id": "151",
+            "message": "Naap tol poora poora kiya karo aur logo ko un ki cheeze kam karke na diya karo aur zameen me un ki islaah ke baad fasaad mat phailaate phiro",
+            "english": "Measure and weight justly and in fill and do not give less to people than is their due and do not spread turmoil on the earth after it has been set in order",
+            "source": "Quraan (Sura-e-A'raaf -85)"
+        },
+        {
+            "id": "152",
+            "message": "Jo kuch tumhare paas hai, wosab khatm ho jaayega aur jo kuch Allah ke paas hai, wo baaqi rehne wala hai",
+            "english": "Whatever is with you shall perish and whatever is with Allah will last forever",
+            "source": "Quraan (Sura-e-Nahl - 96)"
+        },
+        {
+            "id": "153",
+            "message": "Aye imaan waalo! insaaf qaaim karne waale bano",
+            "english": "O believers! Be those who establish justice",
+            "source": "Quraan (Sura-e-Nisa - 135)"
+        },
+        {
+            "id": "154",
+            "message": "Tum marte dam tak apne Rab ki ibaadat karte raho",
+            "english": "And remain worshipping your Lord till death comes unto you",
+            "source": "Quraan (Sura-e-Hijr - 99)"
+        },
+        {
+            "id": "155",
+            "message": "Beshak Allah kisi itraane waale badhai maarne waale ko pasand nhi karte",
+            "english": "Undoubtedly, Allah loves not the proid and boastful",
+            "source": "Quraan (Sura-e-Nisa - 36)"
+        },
+        {
+            "id": "156",
+            "message": "Aye imaan waalo! Apas me ek doosre ka maal naahaq tareeqe se mat khao, magar jo maal apas ki razaamandi se ki hui khareed-o-farokht se hasil ho",
+            "english": "O believers! Consume not unjustly the property of one another, among yourselves except it be a trade by your mutual consent",
+            "source": "Quraan (Sura-e-Nisa - 29)"
+        },
+        {
+            "id": "157",
+            "message": "Jo kuch tum kar rahe ho, tumhara Rab us se bekhabar nhi hai",
+            "english": "And your Lord is not unware of what you do",
+            "source": "Quraan (Sura-e-Hood - 123)"
+        },
+        {
+            "id": "158",
+            "message": "Jo shakhs koi acchi sifaarish karta hai, us ko us me se hissa (sawaab) milta hai",
+            "english": "Whosever makes a good intercession, there is a share of (good deed) in it for him",
+            "source": "Quraan (Sura-e-Nisa - 85)"
+        },
+        {
+            "id": "159",
+            "message": "Mai ne jinnat aur insaano ko sirf is liye paida kiyea ke wo meri ibaadat kare",
+            "english": "And i have created Jinnkind and Mankind soley to worship Me",
+            "source": "Quraan (Sura-e-Zaariyaat - 56)"
+        },
+        {
+            "id": "160",
+            "message": "unhone (Allah ke bando ne) jo sbar se kaam liya tha, us ke badle me (Allah) unhe jannat aur reshmi libaas ata farmaayega",
+            "english": "They (Allah's pious followers) who have delt patiently, in return will be granted (by Allah) Paradise and garments made of silk",
+            "source": "Quraan (Sura-e-Dahar -12)"
+        },
+        {
+            "id": "161",
+            "message": "Aye imaan waalo! Allah aur Rasool se be-wafaayi mat karo aur jaante boojhte apni amaanato me khayaanat mat karo",
+            "english": "O believers! betray not Allah and his Messenger nor commit misapproprition of funds in your charge knowingly",
+            "source": "Quraan (Sura-e-Anfaal -27)"
+        },
+        {
+            "id": "162",
+            "message": "Aye imaan waalo! tumhari daulat aur tumhari aulaad tumhe Allah ki yaad se gaafil na karne paaye, aur jo log aisa karege, wo bade ghaate ka sauda karne waale honge",
+            "english": "O believers! Let not your wealth and your children divert you from the remembrance of Allah and whoever does so, they are really is big loss",
+            "source": "Quraan (Sura-e-Munafiqoon - 9)"
+        },
+        {
+            "id": "163",
+            "message": "Jab tumhe koi shakhs salaam kare, to tum us se bhi behtar tareeqe par salaam karo ya un hi alfaaz me us ka jawaab de do",
+            "english": "And when you are greeted by someone, with any word of greeting(Salam) then greet him back with a better word than it or return the same",
+            "source": "Quraan (Sura-e-Nisa -86)"
+        },
+        {
+            "id": "164",
+            "message": "Tumhare parwardigaar ne kaha hai ke mujhe se dua maango, mai tumhari duaaye qubool karuga",
+            "english": "And your Lord has said pray to me, I shall acknowledge your prayer",
+            "source": "Quraan (Sura-e-Momin - 60)"
+        },
+        {
+            "id": "165",
+            "message": "Allah Ta'ala ne tijaarat ko halaal aur sood (interest) ko haram qaraar diya hai",
+            "english": "And Allah has made business lawful and made interest unlawful",
+            "source": "Quraan (Sura-e-Baqarah - 275)"
+        },
+        {
+            "id": "166",
+            "message": "Aye momino! tumsab Allah ke saame tauba karo, taake tumhe kaamyaabi naseeb ho",
+            "english": "O Muslim! Repent before Allah; All of you, so you may be granted success",
+            "source": "Quraan (Sura-e-Noor - 31)"
+        },
+        {
+            "id": "167",
+            "message": "Jo log imaan laaye hai aur unho ne nek amal kiye hai, wo beshak saari makhlooq me sab se behtar hai",
+            "english": "Those who have believed and did good deeds, undoubtedly are the best of Allah's creation",
+            "source": "Quraan (Sura-e-Bayyinah - 7)"
+        },
+        {
+            "id": "168",
+            "message": "Jo shakhs ziyaadti aur zulm ke taur par aisa (naahaq maal khaayega aur qtl wa khoon) karega, to hum us ko jahannam me daakhil karege aur ye baat Allah ke liye bilkul aasaan hai",
+            "english": "And whoever does that through injustice and oppression (unjustly take the wealth and commit murder) we (Allah) shall soon put him in the fire (Hell); and surely this is effortless for Allah to do",
+            "source": "Quraan (Sura-e-Nisa - 30)"
+        },
+        {
+            "id": "169",
+            "message": "Beshak namaaz musalmaano par waqt ki paabandi ke saath farz hai",
+            "english": "Undoubtedly the pyayer is a fixed time obligation on Muslims",
+            "source": "Quraan (Sura-e-Nisa - 103)"
+        },
+        {
+            "id": "170",
+            "message": "Ahad (jaaiz waada) ko poora kiya kar, beshak ahad ke baare me tum se pooch taach hone waali hai",
+            "english": "Fulfil the covenant (valid promise) you have made; undoubtedly the promise will be answerable (in the Hereafter)",
+            "source": "Quraan (Sura-e-Bani Israeel - 34)"
+        },
+        {
+            "id": "171",
+            "message": "Agr waalidain me se koi ek ya dono tumhare paas budhaape ko pahoch jaay, to tum unhe uff tak na kaho aur na unhe jhidko, balke un se izzat ke saath baat karo",
+            "english": "If either or both of them (your parents) reach old age in your presence, do not say to them \"uff\" and do not rebuff them; and speak to then with utmost respect",
+            "source": "Quraan (Sura-e-Bani Israeel - 23)"
+        },
+        {
+            "id": "172",
+            "message": "Jab tum faarig ho jaao to (ibaadat me) apne aap ko thakaao aur apne parwardigaar hi se dil lagaao",
+            "english": "So when you are free, tire yourself (in worship) and make a connection through your heart with Allah only",
+            "source": "Quraan (Sura-e-Inshiraah - 7,8)"
+        },
+        {
+            "id": "173",
+            "message": "Behayaai ke kaamo ke qareeb bhi na jaao, chaahe wo behayaai khuli hui ho ya chhupi hui ho",
+            "english": "Do not go near shameful acts, whether they are open or secret",
+            "source": "Quraan (Sura-e-An'aam - 151)"
+        },
+        {
+            "id": "174",
+            "message": "Agar tum (sood lene se) baaz nahi aye, to Allah aur us ke Rasool ki taraf se jung ka elaan sun lo",
+            "english": "And if you do not (stop taking interest), then listen to the declaration of war from Allah and his Messenger",
+            "source": "Quraan (Sura-e-Baqarah - 279)"
+        },
+        {
+            "id": "175",
+            "message": "Jis shakhs ne (duniya me) zarra baraabar koi bhalaayi ki hogi, wo use aakhirat me dekh lega",
+            "english": "Whoever does good (in this world) eqaul to the weight of an atom, shall see it (in the hereafter)",
+            "source": "Quraan (Sura-e-Zilzaal - 7)"
+        },
+        {
+            "id": "176",
+            "message": "Zameen me fasaad machaane ki koshish na karo, yaqeen jaano Allah fasaad machaane waalo ko pasand nhi karta",
+            "english": "And do not seek to make mischief in the land, undoubtedly Allah does not like the mischief-makers",
+            "source": "Quraan (Sura-e-Qasas - 77)"
+        },
+        {
+            "id": "177",
+            "message": "Tum nek kaamo me ek doosre se aage badhne ki koshish karo",
+            "english": "Compete to surpass others in good deeds",
+            "source": "Quraan (Sura-e-Baqarah - 148)"
+        },
+        {
+            "id": "178",
+            "message": "Allah Ta'ala zaalimo ko pasand nhi karta",
+            "english": "Allah does not like the oppressors",
+            "source": "Quraan (Sura-e-Aale Imraan - 57)"
+        },
+        {
+            "id": "179",
+            "message": "Maa Baap ke saath muhabbat ka bartao karte hue un ke saamne apne aap ko aajizi se jhukao",
+            "english": "Submit yourself before them (your parents) in humility and out of love",
+            "source": "Quraan (Sura-e-Bani Israeel - 24)"
+        }
+    ]
+}
